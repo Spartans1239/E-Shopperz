@@ -11,3 +11,4 @@ node_modules/.bin/cssesc
 node_modules/.bin/detect
 node_modules/.bin/detect-port
 node_modules
+.env
