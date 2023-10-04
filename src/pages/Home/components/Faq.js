@@ -19,7 +19,7 @@ export const Faq = () => {
         },
         {
           "id": 4,
-          "question": "Do you support Internation payments?",
+          "question": "Do you support International payments?",
           "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iste dolor deserunt expedita quam fugit et inventore amet pariatur. Animi."
         }
     ];
